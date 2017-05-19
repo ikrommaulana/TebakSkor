@@ -1,0 +1,7 @@
+[06-Jan-2017 04:08:24 UTC] PHP Fatal error:  Call to a member function database() on null in /home/mncplaymedia/public_html/site/application/controllers/Daftar.php on line 9
+[12-Jan-2017 04:05:53 UTC] PHP Fatal error:  Call to a member function simpan() on null in /home/mncplaymedia/public_html/site/application/controllers/Survey.php on line 54
+[12-Jan-2017 04:07:48 UTC] PHP Fatal error:  Call to a member function simpan() on null in /home/mncplaymedia/public_html/site/application/controllers/Survey.php on line 56
+[12-Jan-2017 04:31:02 UTC] PHP Fatal error:  Call to a member function simpan() on null in /home/mncplaymedia/public_html/site/application/controllers/Survey.php on line 56
+[12-Jan-2017 04:36:18 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/mncplaymedia/public_html/site/application/views/survey/sukses.php on line 12
+[10-Feb-2017 12:14:32 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/mncplaymedia/public_html/site/application/controllers/Tebakskor.php on line 69
+[10-Feb-2017 12:14:35 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/mncplaymedia/public_html/site/application/controllers/Tebakskor.php on line 69
